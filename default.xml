@@ -22,6 +22,7 @@
   <project path="device/common" name="CyanogenMod/android_device_common" revision="gingerbread" remote="gh" />
   <project path="device/sample" name="device/sample" />
   <project path="device/samsung/gio" name="MoltenMotherBoard/platform_device_samsung_gio" revision="aosp-gb" remote="gh" />  
+  <project path="device/samsung/cooper" name="spacecaker/platform_device_samsung_cooper" revision="master" remote="gh" />  
   <project path="device/samsung/cooperve" name="spacecaker/platform_device_samsung_cooperve" revision="master" remote="gh" />
   <project path="device/samsung/bcm21553-common" name="broadcomCM/android_device_samsung_bcm21553-common" revision="gingerbread" remote="gh" />
   <project path="external/apache-http" name="platform/external/apache-http" />
