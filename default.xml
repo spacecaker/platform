@@ -22,7 +22,11 @@
   <project path="device/common" name="CyanogenMod/android_device_common" revision="gingerbread" remote="gh" />
   <project path="device/sample" name="device/sample" />
   <project path="device/samsung/gio" name="MoltenMotherBoard/platform_device_samsung_gio" revision="aosp-gb" remote="gh" />  
+  <project path="device/samsung/cooperve" name="spacecaker/platform_device_samsung_cooperve" revision="master" remote="gh" />
+  <project path="device/samsung/bcm21553-common" name="broadcomCM/android_device_samsung_bcm21553-common" revision="gingerbread" remote="gh" />
   <project path="external/apache-http" name="platform/external/apache-http" />
+  <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" />
+  <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" />  
   <project path="external/astl" name="platform/external/astl" />
   <project path="external/bash" name="CyanogenMod/android_external_bash" remote="gh" revision="gingerbread" />
   <project path="external/bison" name="platform/external/bison" />
@@ -192,5 +196,7 @@
   <project path="system/wlan/ti" name="platform/system/wlan/ti" />
   <project path="vendor/google" name="MoltenMotherBoard/platform_vendor_google" remote="gh" revision="gingerbread" />
   <project path="vendor/mmb" name="MoltenMotherBoard/platform_vendor_mmb" remote="gh" revision="aosp-gb" />
+  <project path="vendor/samsung" name="broadcomCM/android_vendor_samsung" remote="gh" revision="gingerbread" />
+  <project path="vendor/alcatel" name="broadcomCM/android_vendor_alcatel" remote="gh" revision="gingerbread" />
 
 </manifest>
